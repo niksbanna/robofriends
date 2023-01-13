@@ -7,7 +7,7 @@ html {
 }
 .scroll {
   overflow-y: scroll;
-  height: 800px;
+  height: 70vh;
   scrollbar-width: thin;
   scrollbar-color: var(--thumbBG) var(--scrollbarBG);
 }
